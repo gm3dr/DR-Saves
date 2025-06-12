@@ -1,0 +1,2 @@
+1000:27,scr_iteminfo_slash_scr_iteminfo_gml_241_0
+1000:27,scr_iteminfo_slash_scr_iteminfo_gml_242_0

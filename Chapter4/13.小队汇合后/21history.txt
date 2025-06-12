@@ -1,0 +1,4 @@
+637:23,scr_prophecytext_slash_scr_prophecytext_gml_20_0
+637:51,obj_savepoint_slash_Other_10_gml_55_0
+637:51,obj_savepoint_slash_Other_10_gml_56_0
+637:58,scr_roomname_slash_scr_roomname_gml_9_0_c

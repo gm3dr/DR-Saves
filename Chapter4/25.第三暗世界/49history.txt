@@ -1,0 +1,4 @@
+995:48,obj_dw_church_warpflame_slash_Step_0_gml_22_0
+995:48,obj_dw_church_warpflame_slash_Step_0_gml_23_0
+995:48,obj_dw_church_warpflame_slash_Step_0_gml_61_0
+995:48,obj_dw_church_warpflame_slash_Step_0_gml_62_0

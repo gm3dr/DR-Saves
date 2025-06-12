@@ -1,0 +1,8 @@
+509:45,obj_savemenu_slash_Draw_0_gml_371_0
+510:5,obj_readable_room1_slash_Other_10_gml_13_0
+510:5,scr_text_slash_scr_text_gml_11502_0
+510:5,scr_text_slash_scr_text_gml_11503_0
+510:5,scr_text_slash_scr_text_gml_11508_0
+510:5,scr_text_slash_scr_text_gml_11509_0
+510:5,scr_text_slash_scr_text_gml_11510_0
+510:25,obj_room_castle_tv_slash_Step_0_gml_96_0

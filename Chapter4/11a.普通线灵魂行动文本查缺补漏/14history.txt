@@ -1,0 +1,3 @@
+629:33,obj_savemenu_slash_Draw_0_gml_518_0
+629:33,obj_savemenu_slash_Draw_0_gml_519_0
+629:33,obj_savemenu_slash_Draw_0_gml_520_0

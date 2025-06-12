@@ -1,0 +1,14 @@
+764:31,scr_text_slash_scr_text_gml_10577_0
+764:31,scr_text_slash_scr_text_gml_10578_0
+764:31,scr_text_slash_scr_text_gml_10579_0
+764:31,scr_text_slash_scr_text_gml_10587_0
+764:31,scr_text_slash_scr_text_gml_10588_0
+764:31,scr_text_slash_scr_text_gml_10589_0
+764:31,scr_text_slash_scr_text_gml_10590_0
+764:31,scr_noface_slash_scr_noface_gml_1_0
+764:45,scr_text_slash_scr_text_gml_10609_0
+764:45,scr_text_slash_scr_text_gml_10610_0
+764:45,scr_text_slash_scr_text_gml_10611_0
+764:59,scr_text_slash_scr_text_gml_10594_0
+764:59,scr_noface_slash_scr_noface_gml_1_0
+765:1,scr_text_slash_scr_text_gml_10628_0

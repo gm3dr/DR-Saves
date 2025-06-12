@@ -1,0 +1,3 @@
+694:39,obj_savepoint_slash_Other_10_gml_83_0_b
+694:39,obj_savepoint_slash_Other_10_gml_84_0
+694:44,scr_roomname_slash_scr_roomname_gml_11_0_b
